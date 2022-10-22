@@ -9,7 +9,7 @@ fn main() {
 
 	// calculate sum and average
 	let Sum = T + M + H + D + A;
-	let Average = sum/n;
+	let Average = Sum/n;
 	println!("The sum of the sales record is {} and the average is {}.", Sum, Average);
 
 }
