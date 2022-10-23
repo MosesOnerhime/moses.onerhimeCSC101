@@ -8,6 +8,6 @@ fn main() {
 	let ap = ap*ap*ap*ap*ap;
 	let amount = principal * ap;
 	let compound_interest = amount - principal;
-	println!("The compund interest is N{}", compound_interest);
+	println!("The compound interest is N{}", compound_interest);
 
 }
