@@ -146,7 +146,7 @@ def main():
     if 4.5 <= GPA <= 5:
         grade = "Excellent, you got a first class!!!"
     elif 3.5 <= GPA < 4.5:
-        grade = "Weldone, you got a second class upper!!"
+        grade = "Nice one, you got a second class upper!!"
     elif 2.4 <= GPA < 3.5:
         grade = "Good but not good enough. You got a second class lower:)"
     elif 1.5 <= GPA < 2.4:
